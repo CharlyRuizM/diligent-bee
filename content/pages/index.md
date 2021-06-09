@@ -6,9 +6,8 @@ sections:
     type: section_hero
     title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
     content: >
-      ![](/\_static/app-assets/images/1.jpg)This section can contain a subtitle
-      or tagline. The recommended length is one to three sentences, but can be
-      changed as you prefer.
+      This section can contain a subtitle or tagline. The recommended length is
+      one to three sentences, but can be changed as you prefer.
     actions:
       - label: Let's talk
         url: /contact
